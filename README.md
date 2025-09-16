@@ -21,10 +21,10 @@ This project provides the following analyses and insights based on the HR Attrit
 7. 🎓 **Attrition by Education Field** – Determines if education background impacts attrition.
 8. 🕒 **Attrition by Overtime (Yes/No)** – Examines correlation between overtime work and resignations.
 9. ⚖️ **Attrition Rate by Work-Life Balance** – Shows how work-life balance levels impact employee attrition.
-10.🏆 **Attrition vs. Years Since Last Promotion** – Examines if promotion frequency affects attrition.
+10. 🏆 **Attrition vs. Years Since Last Promotion** – Examines if promotion frequency affects attrition.
 ## 📁 Project Structure
-
-IBM-HR-Attrition-Analysis/
+```
+HR-Attrition-Analysis/
 ├── data/
 │   ├── WA_Fn-UseC_-HR-Employee-Attrition.csv
 │   └── HR_Attrition_Clean.csv
@@ -47,7 +47,7 @@ IBM-HR-Attrition-Analysis/
 ├── dashboard.py          
 ├── requirements.txt
 └── README.md
-
+```
 ## 🛠️ How to Run
 
 1. Clone this repository.
@@ -77,5 +77,5 @@ streamlit run dashboard.py
 ```
 
 ## ✍️ Author 
-Name : Layan AlMutairi 
-Email : layanal-mutairi@outlook.sa
+**Name:** Layan AlMutairi  
+**Email:** layanal-mutairi@outlook.sa
